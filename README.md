@@ -18,30 +18,4 @@ The game runs from a main menu, so you can quit any time by selecting “Retire�
 
 GOALS:
 
-Short Term Goals:
-
--       Better formatting for the text
--       More variance in pilot abilities and enemy ship attributes 
--       A “high score” record keeper
--       Better formulas for: The end-game score, “myhitchance”, and damage
--       A working shop with random inventory.
--       The alien’s cultures actually meaning something.
-- 		  More combat options, such as withdrawing from battle (taking a hit to your fame)
-
-Long-term goals:
-
--       A randomly generated ASCII starmap, with points of interest.
--       Some kind of GUI
--       The ability to select missions
--       A backstory.
--       Perhaps combat that is more tactical in nature
-- 		  Hand to hand combat abilities
-
-COMMENTS:
-
-Please email me with any feedback you might have, especially:
-
-- What your high score was
-- What features might be cool to put in
-- Where I can look to find sample code that simulates a shop or economy
-- Where to find good explanations of OOP
+I re-made this game as a fantasy version with more features and called it "Barbarian".
